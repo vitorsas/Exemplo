@@ -9,4 +9,5 @@
 
 int main(int argc, char **argv){
 	printf("hello world\n");
+	printf("how are you ?\n");
 }
