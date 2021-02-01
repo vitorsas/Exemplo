@@ -8,6 +8,5 @@
 #include <fftw3.h>
 
 int main(int argc, char **argv){
-	printf("hello world\n");
-	printf("how are you ?\n");
+	printf("a soma de 2 +2 é %d\n",2+2);
 }
